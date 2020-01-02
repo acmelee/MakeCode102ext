@@ -2,7 +2,7 @@
  * Writing data for hacking stem experiments
  */
 //% weight=94 color=#EC7505 icon="\uf1b3"
-namespace hourOfCode {
+namespace MAKECODE102EXT {
     // the agentDestroy and hazardsRemain functions are supposed to
     // look indistinguishable from lesson to lesson, since only one
     // set will ever appear at a time. their display names should
