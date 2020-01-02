@@ -1,5 +1,5 @@
 {
-    "name": "MC102EXT",
+    "name": "MAKECODE102EXT",
     "version": "0.0.43",
     "description": "Support for Minecraft Hour of Code activities",
     "license": "MIT",
@@ -10,10 +10,10 @@
         "README.md",
         "extension.ts",
         "enums.d.ts",
-        "_locales/en-GB/minecraft-MC102EXT-jsdoc-strings.json",
-        "_locales/en-GB/minecraft-MC102EXT-strings.json",
-        "_locales/zh-CN/minecraft-MC102EXT-jsdoc-strings.json",
-        "_locales/zh-CN/minecraft-MC102EXT-strings.json"
+        "_locales/en-GB/minecraft-MAKECODE102EXT-jsdoc-strings.json",
+        "_locales/en-GB/minecraft-MAKECODE102EXT-strings.json",
+        "_locales/zh-CN/minecraft-MAKECODE102EXT-jsdoc-strings.json",
+        "_locales/zh-CN/minecraft-MAKECODE102EXT-strings.json"
     ],
     "testFiles": [
         "test.ts"
